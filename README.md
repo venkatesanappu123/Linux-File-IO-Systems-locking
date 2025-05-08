@@ -75,7 +75,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![alt text](output.png)
+![altext](./images/output.png)
 
 ## 2.To Write a C program that illustrates files locking
 
@@ -151,9 +151,9 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![alt text](output1.png)
-
-
+![alttext](./images/output1.png)
+![alttext](./images/output2.png)
+![alttext](./images/output3.png)
 
 # RESULT:
 The programs are executed successfully.
